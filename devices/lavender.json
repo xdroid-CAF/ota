@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1629894002,
-      "filename": "xd_rev1.3.redwhite.OBT-lavender-20210825-1920.zip",
-      "id": "2d315754a2ef73bffcd3943d1189d54d",
+      "datetime": 1629909711,
+      "filename": "xd_rev1.3.redwhite.OBT-lavender-20210825-2346.zip",
+      "id": "9ce085420d9221466d17886993b9b6c27ec99ef19e36fc4e86d21b0db8ce43c2",
       "romtype": "userdebug",
-      "size": 1382771810,
-      "url": "http://35.188.159.48/xd/xd_rev1.3.redwhite.OBT-lavender-20210825-1920.zip",
+      "size": 1382563184,
+      "url": "http://35.188.159.48/xd/ota/xd_rev1.3.redwhite.OBT-lavender-20210825-2346.zip",
       "version": "rev1.3.redwhite",
       "links": {
         "supportGroup": "https://telegram.me/xyz_playground",
