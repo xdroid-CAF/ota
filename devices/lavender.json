@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "datetime": 202108172049,
+      "filename": "xd_rev1.3.redwhite.OBT-lavender-20210817-0139.zip",
+      "id": "7d2b568ab5f80f1fda5b6e3443511fcd",
+      "romtype": "userdebug",
+      "size": 1417697329,
+      "url": "https://sourceforge.net/projects/xyzuan/files/xd_lavender/xd_rev1.3.redwhite.OBT-lavender-20210817-0139.zip/download",
+      "version": "1.3",
+      "links": {
+        "supportGroup": "https://telegram.me/xyz_playground",
+        "deviceGroup": "https://telegram.me/xdroidlavender"
+      },
+      "changes": [
+        "OTA Test"
+      ]
+    }
+  ]
+}
