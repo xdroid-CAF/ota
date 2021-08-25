@@ -1,22 +1,9 @@
- {
-  "response": [
-    {
+{
       "datetime": 1629909711,
       "filename": "xd_rev1.3.redwhite.OBT-lavender-20210825-2346.zip",
       "id": "ee70810775985a4f497806f88dbb7691",
-      "romtype": "redwhite",
+      "romtype": "userdebug",
       "size": 1382563184,
       "url": "http://35.188.159.48/xd/ota/xd_rev1.3.redwhite.OBT-lavender-20210825-2346.zip",
-      "version": "1.4",
-      "links": {
-        "xda": "https://test.com",
-        "supportGroup": "https://test.com",
-        "deviceGroup": "https://test.com"
-      },
-      "changelog": [
-        "cek",
-        "cek"
-      ]
-    }
-  ]
+      "version": "1.4"
 }
