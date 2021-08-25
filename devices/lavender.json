@@ -1,19 +1,21 @@
-{
+ {
   "response": [
     {
       "datetime": 1629909711,
       "filename": "xd_rev1.3.redwhite.OBT-lavender-20210825-2346.zip",
-      "id": "9ce085420d9221466d17886993b9b6c27ec99ef19e36fc4e86d21b0db8ce43c2",
-      "romtype": "userdebug",
+      "id": "ee70810775985a4f497806f88dbb7691",
+      "romtype": "redwhite",
       "size": 1382563184,
       "url": "http://35.188.159.48/xd/ota/xd_rev1.3.redwhite.OBT-lavender-20210825-2346.zip",
-      "version": "rev1.3.redwhite",
+      "version": "1.4",
       "links": {
-        "supportGroup": "https://telegram.me/xyz_playground",
-        "deviceGroup": "https://telegram.me/xdroidlavender"
+        "xda": "https://test.com",
+        "supportGroup": "https://test.com",
+        "deviceGroup": "https://test.com"
       },
-      "changes": [
-        "Android 12 Initial Release"
+      "changelog": [
+        "cek",
+        "cek"
       ]
     }
   ]
